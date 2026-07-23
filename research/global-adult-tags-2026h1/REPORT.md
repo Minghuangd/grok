@@ -1,5 +1,12 @@
 # 全球成人内容热门标签 Top 100（近半年窗口 · 多源重建）
 
+> **口径已更新（2026-07-23）**  
+> 宽泛词版（hentai / milf / korean 等）已废弃。  
+> 请改看推荐版具体标签报告：[`REPORT_SPECIFIC.md`](./REPORT_SPECIFIC.md) · [`top_specific_tags.csv`](./top_specific_tags.csv)
+
+---
+
+> （以下为旧版宽泛词方法存档，仅供对照）  
 > 统计日：2026-07-23  
 > 目标窗口：约 **2026-01 ~ 2026-07**（近半年）  
 > 实际可核验主数据：以 **Pornhub Insights《2025 Year in Review》**（覆盖 2025 全年，2025-12 前后发布）为锚；辅以 **2026 上半年 FANZA/东亚ジャンル信号** 与多国热搜交叉验证。  
